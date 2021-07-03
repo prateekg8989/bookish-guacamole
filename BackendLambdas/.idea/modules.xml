@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AgentService/AgentService.iml" filepath="$PROJECT_DIR$/AgentService/AgentService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InsuranceVendorService/InsuranceVendorService.iml" filepath="$PROJECT_DIR$/InsuranceVendorService/InsuranceVendorService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LicenseRemindingService/LicenseRemindingService.iml" filepath="$PROJECT_DIR$/LicenseRemindingService/LicenseRemindingService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PostSignupTriggerHandler/PostSignupTriggerHandler.iml" filepath="$PROJECT_DIR$/PostSignupTriggerHandler/PostSignupTriggerHandler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PreSignUpTriggerHandler/PreSignUpTriggerHandler.iml" filepath="$PROJECT_DIR$/PreSignUpTriggerHandler/PreSignUpTriggerHandler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S3FileHandler/S3FileHandler.iml" filepath="$PROJECT_DIR$/S3FileHandler/S3FileHandler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S3UrlGenerator/S3UrlGenerator.iml" filepath="$PROJECT_DIR$/S3UrlGenerator/S3UrlGenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestLambda2.iml" filepath="$PROJECT_DIR$/TestLambda2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThirdPartyApiCaller/ThirdPartyApiCaller.iml" filepath="$PROJECT_DIR$/ThirdPartyApiCaller/ThirdPartyApiCaller.iml" />
+    </modules>
+  </component>
+</project>

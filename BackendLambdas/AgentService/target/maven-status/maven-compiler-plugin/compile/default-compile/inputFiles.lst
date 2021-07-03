@@ -1,0 +1,6 @@
+/home/prateek/installation/bfsi/java/case_Study/TestLambda2/AgentService/src/main/java/com/axis/dao/AgentDao.java
+/home/prateek/installation/bfsi/java/case_Study/TestLambda2/AgentService/src/main/java/com/axis/model/User.java
+/home/prateek/installation/bfsi/java/case_Study/TestLambda2/AgentService/src/main/java/com/axis/config/DynamodbConfig.java
+/home/prateek/installation/bfsi/java/case_Study/TestLambda2/AgentService/src/main/java/com/axis/model/Agent.java
+/home/prateek/installation/bfsi/java/case_Study/TestLambda2/AgentService/src/main/java/com/axis/handler/AgentServiceHandler.java
+/home/prateek/installation/bfsi/java/case_Study/TestLambda2/AgentService/src/main/java/com/axis/dao/UserDao.java

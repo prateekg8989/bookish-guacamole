@@ -1,0 +1,14 @@
+.sidebarTitle {
+  background: lightgray;
+  color: #676464;
+  font-weight: 550;
+}
+.sidebarNameStyle {
+  color: black;
+  font-size: 16px;
+  font-style: normal;
+}
+.sidebarLink:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}

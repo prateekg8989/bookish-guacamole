@@ -1,0 +1,9 @@
+Resources:
+  Function:
+    Type: AWS::Serverless::Function
+    Properties:
+      Timeout: 300
+      MemorySize: 128
+      Handler: com.axis.handler.CognitoHandler
+      CodeUri: /home/prateek/installation/bfsi/java/case_Study/TestLambda2/PostSignupTriggerHandler
+      Runtime: java8.al2

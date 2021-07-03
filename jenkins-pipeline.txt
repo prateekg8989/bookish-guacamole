@@ -1,0 +1,29 @@
+node('master') {
+    stage('checkout') {
+    	git 'https://github.com/prateekgumasta8989/insurance-service-handler.git'
+    }
+    stage('clean build package') {
+        sh "mvn -DskipTests clean package"
+    }
+    stage('publish') {
+        sh "aws s3 cp target/InsuranceVendorService-1.0.jar s3://lambda-functions-prateek"
+    }
+    stage('deploy') {
+        sh 'aws lambda update-function-code --function-name InsurancePolicyService --s3-bucket lambda-functions-prateek --s3-key InsuranceVendorService-1.0.jar'
+    }
+}
+
+
+node('master') {
+    stage('checkout') {
+    	git 'https://github.com/prateekgumasta8989/jd-frontend.git'
+    }
+    stage('build') {
+        sh "npm install"
+        sh "npm run  build"
+    }
+    stage('deploy') {
+        sh "aws s3 sync build s3://jd-bank-web-app --acl public-read"
+    }
+
+}

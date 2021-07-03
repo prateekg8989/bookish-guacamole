@@ -1,0 +1,9 @@
+Resources:
+  Function:
+    Type: AWS::Serverless::Function
+    Properties:
+      Timeout: 300
+      MemorySize: 128
+      Handler: com.axis.handler.CognitoHandler::handleRequest
+      CodeUri: s3://lambda-functions-prateek/a0211a36e604239c05984b93e7e57efc
+      Runtime: java8.al2

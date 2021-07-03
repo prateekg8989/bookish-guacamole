@@ -1,0 +1,11 @@
+/home/prateek/installation/bfsi/java/case_Study/TestLambda2/InsuranceVendorService/src/main/java/com/axis/config/DynamodbConfig.java
+/home/prateek/installation/bfsi/java/case_Study/TestLambda2/InsuranceVendorService/src/main/java/com/axis/dao/SoldInsurancePolicyDao.java
+/home/prateek/installation/bfsi/java/case_Study/TestLambda2/InsuranceVendorService/src/main/java/com/axis/config/CustomGeneratedKey.java
+/home/prateek/installation/bfsi/java/case_Study/TestLambda2/InsuranceVendorService/src/main/java/com/axis/model/InsuranceType.java
+/home/prateek/installation/bfsi/java/case_Study/TestLambda2/InsuranceVendorService/src/main/java/com/axis/dao/InsuranceTypeDao.java
+/home/prateek/installation/bfsi/java/case_Study/TestLambda2/InsuranceVendorService/src/main/java/com/axis/model/Vendor.java
+/home/prateek/installation/bfsi/java/case_Study/TestLambda2/InsuranceVendorService/src/main/java/com/axis/handler/InsuranceVendorServiceHandler.java
+/home/prateek/installation/bfsi/java/case_Study/TestLambda2/InsuranceVendorService/src/main/java/com/axis/dto/SoldInsurancePolicyDto.java
+/home/prateek/installation/bfsi/java/case_Study/TestLambda2/InsuranceVendorService/src/main/java/com/axis/service/InsuranceTypeService.java
+/home/prateek/installation/bfsi/java/case_Study/TestLambda2/InsuranceVendorService/src/main/java/com/axis/model/SoldInsurancePolicy.java
+/home/prateek/installation/bfsi/java/case_Study/TestLambda2/InsuranceVendorService/src/main/java/com/axis/service/SoldInsurancePolicyService.java

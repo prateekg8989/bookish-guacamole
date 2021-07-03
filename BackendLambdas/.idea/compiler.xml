@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="PostSignupTriggerHandler" />
+        <module name="AgentService" />
+        <module name="InsuranceVendorService" />
+        <module name="S3UrlGenerator" />
+        <module name="ThirdPartyApiCaller" />
+        <module name="LicenseRemindingService" />
+        <module name="PreSignUpTriggerHandler" />
+        <module name="S3FileHandler" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AgentOnboarding" target="1.8" />
+      <module name="AgentService" target="1.8" />
+      <module name="InsuranceVendorService" target="1.8" />
+      <module name="LicenseRemindingService" target="1.8" />
+      <module name="PostSignupConfirmationTriggerHandler" target="1.8" />
+      <module name="PostSignupTriggerHandler" target="1.8" />
+      <module name="PostSignupTriggerHandler (1)" target="1.8" />
+      <module name="PreSignUpTriggerHandler" target="1.8" />
+      <module name="S3FileHandler" target="1.8" />
+      <module name="S3UrlGenerator" target="1.8" />
+      <module name="ThirdPartyApiCaller" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

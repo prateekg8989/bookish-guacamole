@@ -1,0 +1,6 @@
+com/axis/dao/AgentDao.class
+com/axis/config/DynamodbConfig.class
+com/axis/handler/AgentServiceHandler.class
+com/axis/model/User.class
+com/axis/model/Agent.class
+com/axis/dao/UserDao.class

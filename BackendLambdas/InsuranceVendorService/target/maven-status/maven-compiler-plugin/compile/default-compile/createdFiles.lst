@@ -1,0 +1,12 @@
+com/axis/config/CustomGeneratedKey.class
+com/axis/handler/InsuranceVendorServiceHandler.class
+com/axis/config/DynamodbConfig.class
+com/axis/dto/SoldInsurancePolicyDto.class
+com/axis/model/InsuranceType.class
+com/axis/service/InsuranceTypeService.class
+com/axis/model/Vendor.class
+com/axis/config/CustomGeneratedKey$Generator.class
+com/axis/model/SoldInsurancePolicy.class
+com/axis/dao/SoldInsurancePolicyDao.class
+com/axis/service/SoldInsurancePolicyService.class
+com/axis/dao/InsuranceTypeDao.class

@@ -1,0 +1,32 @@
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.thStyle {
+  align-items: center;
+}
+.k-grid {
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+  overflow: hidden;
+}
+.k-grid,
+.k-grid div,
+.k-grid table,
+.k-grid thead,
+.k-grid .k-button,
+.k-grid tbody,
+.k-grid th,
+.k-grid tr,
+.k-grid td {
+  border: 0;
+  /*font-size:12px;*/
+}
+.k-grid-header {
+  background-color: darkgrey;
+  font-weight: 550;
+}
+.textEnd {
+  text-align: end;
+}
